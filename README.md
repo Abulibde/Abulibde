@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: i.abulibde@gmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abulibde&show_icons=true&theme=highcontrast)
+
 <!--
 **Abulibde/Abulibde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Abulibde=anuraghazra&show_icons=true&theme=radical)
 -->
