@@ -17,7 +17,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-
      
 
 
@@ -38,4 +37,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Abulibde=anuraghazra&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abulibde&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" width="50%" src="https://streak-stats.demolab.com/?user=Abulibde" />
 -->
