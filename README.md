@@ -30,7 +30,7 @@ My current focus is on building the practical, hands-on skills required for an e
 | :--- | :--- |
 | **Pentesting Tools** | Nmap, Wireshark, Metasploit (MSF), Burp Suite, Hydra |
 | **Operating Systems** | Linux (Kali, Bash Scripting), Windows, Virtualization (VMware/VirtualBox) |
-| **Networking & Security** | TCP/IP, OSI Model, Network Reconnaissance, Vulnerability Analysis, ARP Spoofing, DNS Spoofing, Threat Analysis |
+| **Networking & Security** | TCP/IP, OSI Model, Network Reconnaissance, Vulnerability Analysis, Threat Analysis |
 | **Programming/Scripting** | Java, SQL/MySQL, **Python (for automation and exploiting)**, Bash Scripting |
 
 #### 🔬 Practical Experience (Hacking Labs)
